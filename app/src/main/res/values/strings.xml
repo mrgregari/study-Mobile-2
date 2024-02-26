@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="show">Show all accounts</string>
+    <string name="find">Find an account</string>
+    <string name="delete">Delete an account</string>
+    <string name="money">All Money: </string>
+</resources>
